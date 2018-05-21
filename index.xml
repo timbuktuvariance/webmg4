@@ -27,9 +27,10 @@
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://sealovers.co.uk/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.
+Create your Hugo configuration file Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too.</description>
     </item>
     
     <item>
