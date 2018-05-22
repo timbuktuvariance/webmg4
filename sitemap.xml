@@ -3,106 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sealovers.co.uk/references/</loc>
-    <lastmod>2018-05-21T19:21:48+00:00</lastmod>
+    <loc>http://sealovers.co.uk/posts/map-of-linux-experiences-in-school/</loc>
+    <lastmod>2018-05-17T07:22:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/post/references/</loc>
-    <lastmod>2018-05-21T10:59:51+00:00</lastmod>
+    <loc>http://sealovers.co.uk/posts/references/</loc>
+    <lastmod>2018-05-14T10:56:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/post/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>http://sealovers.co.uk/about/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/post/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://sealovers.co.uk/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/post/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/post/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/post/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/categories/</loc>
+    <loc>http://sealovers.co.uk/tags/blog/</loc>
+    <lastmod>2018-05-17T07:22:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://sealovers.co.uk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://sealovers.co.uk/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sealovers.co.uk/tags/opensource/</loc>
+    <lastmod>2018-05-14T10:56:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://sealovers.co.uk/tags/references/</loc>
+    <lastmod>2018-05-14T10:56:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/post/</loc>
-    <lastmod>2018-05-21T10:59:51+00:00</lastmod>
+    <loc>http://sealovers.co.uk/tags/story/</loc>
+    <lastmod>2018-05-17T07:22:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://sealovers.co.uk/tags/</loc>
+    <lastmod>2018-05-17T07:22:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sealovers.co.uk/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sealovers.co.uk/</loc>
-    <lastmod>2018-05-21T19:21:48+00:00</lastmod>
+    <loc>http://sealovers.co.uk/</loc>
+    <lastmod>2018-05-17T07:22:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   

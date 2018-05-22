@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>miraglobal</title>
-    <link>http://sealovers.co.uk/</link>
-    <description>Recent content on miraglobal</description>
+    <title>Opensource on miraglobal</title>
+    <link>http://sealovers.co.uk/tags/opensource/</link>
+    <description>Recent content in Opensource on miraglobal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 May 2018 07:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 10:56:21 +0000</lastBuildDate>
     
-	<atom:link href="http://sealovers.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sealovers.co.uk/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>map of linux experiences in school</title>
-      <link>http://sealovers.co.uk/posts/map-of-linux-experiences-in-school/</link>
-      <pubDate>Thu, 17 May 2018 07:22:07 +0000</pubDate>
-      
-      <guid>http://sealovers.co.uk/posts/map-of-linux-experiences-in-school/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>references</title>
@@ -31,15 +22,6 @@ Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, f
 Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736
 Bull, G., Bell, R., &amp;amp; Kajder, S. (2003). The Role of “Computers in the Schools” Revisited. Computers in the Schools, 20(1–2), 59–76. https://doi.org/10.1300/J025v20n01_05
 Dawson, C. (2008).</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://sealovers.co.uk/about/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>http://sealovers.co.uk/about/</guid>
-      <description>Contact us using this form - coming soon</description>
     </item>
     
   </channel>

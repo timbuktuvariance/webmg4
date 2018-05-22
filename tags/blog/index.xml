@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on miraglobal</title>
+    <link>http://sealovers.co.uk/tags/blog/</link>
+    <description>Recent content in Blog on miraglobal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 May 2018 07:22:07 +0000</lastBuildDate>
+    
+	<atom:link href="http://sealovers.co.uk/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>map of linux experiences in school</title>
+      <link>http://sealovers.co.uk/posts/map-of-linux-experiences-in-school/</link>
+      <pubDate>Thu, 17 May 2018 07:22:07 +0000</pubDate>
+      
+      <guid>http://sealovers.co.uk/posts/map-of-linux-experiences-in-school/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
